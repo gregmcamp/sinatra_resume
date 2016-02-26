@@ -1,0 +1,33 @@
+h2 {
+  text-align: center;
+}
+
+body {
+  padding-top: 50px;
+  background-color: #E5F2FF;
+}
+
+.job_title {
+  padding-top: 5px;
+  line-height: 40%;
+  font-family: PT Sans;
+}
+
+.job_duties {
+  font-size: 14x;
+}
+
+.links_res {
+  padding-top: 40px;
+  text-align: center;
+  font-size: 24;
+  line-height: 200%;
+}
+
+.names {
+  line-height: 50%;
+}
+
+.education p{
+  font-size: 20px;
+}
